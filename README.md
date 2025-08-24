@@ -31,11 +31,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisson-miguelferreira&show_icons=true&theme=default&hide=stars"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-miguelferreira&layout=compact&theme=default"/>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=alisson-miguelferreira&show_icons=true&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=00bfff&hide=stars"/>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-miguelferreira&layout=compact&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=00bfff"/>
 </p>
 
----
 
 ### 🌐 Conecte-se comigo
 
