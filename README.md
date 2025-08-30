@@ -14,31 +14,31 @@
 
 ### 💻 [Cópia do site Microsoft](https://github.com/alisson-miguelferreira/copia-site-Microsoft)  
 <img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/Microsoft-logo.png" width="300px"/>  
-Recriação do layout do site Microsoft com **HTML, CSS e JS**, totalmente responsivo.  
+Página inspirada no site oficial da Microsoft, com layout moderno e fiel, menu responsivo e seções para produtos como Copilot, Microsoft 365, Xbox, Edge e Visual Studio, simulando a experiência real de navegação  
 
 ---
 
 ### 🔐 [JokenPô He-Man Edition](https://alisson-miguelferreira.github.io/JokenPo-He-Man/)  
-<img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/" width="300px"/>  
-Página de login com **background aleatório** a cada acesso, design moderno e interativo.  
+<img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/Jokenpô He-man print.png" width="300px"/>  
+JokenPô Épico: He-Man vs Skeletor — Entre na arena de Grayskull e escolha sua arma para enfrentar o vilão em batalhas intensas! O jogo abre com um efeito sonoro épico, e durante a partida o background animado mantém a atmosfera heroica e sombria, enquanto animações sutis nos botões tornam a experiência interativa.  
 
 ---
 
 ### 🛒 [E-commerce Front-end](https://github.com/alisson-miguelferreira/e-commerce)  
 <img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/TechStore.png" width="300px"/>  
-Loja online com carrinho de compras, filtros e integração com API de produtos.  
+Projeto de loja virtual desenvolvido para simular a compra de produtos de tecnologia. Conta com catálogo de produtos, carrinho de compras e interface responsiva, oferecendo uma experiência prática e intuitiva para o usuário.  
 
 ---
 
 ### 💱 [Conversor de Moedas](https://github.com/alisson-miguelferreira/conversor-de-moedas)  
 <img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/convert-money.png" width="300px"/>  
-Aplicativo front-end que converte valores entre diferentes moedas com interface simples e intuitiva.  
+Ferramenta de conversão que realiza cálculos imediatos entre real, dólar, euro, libra esterlina e bitcoin, utilizando cotações reais atualizadas para garantir resultados precisos e confiáveis. 
 
 ---
 
 ### 🌐 [Meu Portfólio Pessoal](https://github.com/alisson-miguelferreira/meu-site)  
 <img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/portfolio.png" width="300px"/>  
-Apresentação pessoal com projetos, habilidades e informações de contato.  
+Explore meus projetos práticos e habilidades em desenvolvimento front-end, com destaque para soluções criativas, código limpo e design responsivo. Aqui você encontrará meu estilo de trabalho, minhas conquistas e formas de contato, tudo organizado de maneira clara para mostrar meu potencial como desenvolvedor. 
 
 ---
 
