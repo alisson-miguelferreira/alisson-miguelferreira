@@ -20,7 +20,7 @@ Página inspirada no site oficial da Microsoft, com layout moderno e fiel, menu 
 
 ### 🔐 [JokenPô He-Man Edition](https://alisson-miguelferreira.github.io/JokenPo-He-Man/)  
 <img src="https://raw.githubusercontent.com/alisson-miguelferreira/bio-assets/main/Jokenpô He-man print.png" width="300px"/>  
-JokenPô Épico: He-Man vs Skeletor — Entre na arena de Grayskull e escolha sua arma para enfrentar o vilão em batalhas intensas! O jogo abre com um efeito sonoro épico, e durante a partida o background animado mantém a atmosfera heroica e sombria, enquanto animações sutis nos botões tornam a experiência interativa.  
+JokenPô Épico: He-Man vs Skeletor — Entre na arena de Grayskull e escolha sua arma para enfrentar o vilão em batalhas intensas! O jogo abre com um efeito sonoro épico, e durante a partida o background animado mantém a atmosfera heróica e sombria, enquanto animações sutis nos botões tornam a experiência interativa.  
 
 ---
 
